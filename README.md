@@ -1,7 +1,7 @@
 # go-chatgpt-web
 
 基于go+vue实现套壳项目，已实现SSE流式传输效果，当前项目是后端项目，前端请点击
-![Example GIF](https://example.com/example.gif)
+![go-chatgpt-web](https://github.com/phpcyu/go-chatgpt-web/blob/main/demo.gif?raw=true)
 
 
 ## Table of Contents
