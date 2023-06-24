@@ -1,0 +1,6 @@
+chat_gpt:
+  keys: # chatgpt的密钥
+  http_proxy: # 访问chatgpt api的代理
+
+app:
+  addr: "localhost:8200"
